@@ -46,6 +46,9 @@ Coverage:
 
 - Visualization: Streamlit, Looker Studio
 
+  <img width="2168" height="1118" alt="image" src="https://github.com/user-attachments/assets/6e65e669-c613-4a82-8cd0-bc54826d8223" />
+
+
 🚀 Outcomes
 
 - Unified analytics platform for athletic performance data
