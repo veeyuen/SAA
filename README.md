@@ -6,58 +6,58 @@ This project is a comprehensive sports analytics platform designed to extract, c
 
 ✨ Key Features
 
-Data Extraction: Automated ingestion from diverse formats:
+- Data Extraction: Automated ingestion from diverse formats:
 
-MS Access, CSV, Excel, Word, PDF
+- MS Access, CSV, Excel, Word, PDF
 
-Legacy migration from phpMyAdmin MySQL into BigQuery
+- Legacy migration from phpMyAdmin MySQL into BigQuery
 
 Data Pipeline:
 
-Custom ETL pipeline built on Cloud Run functions
+- Custom ETL pipeline built on Cloud Run functions
 
-Google Pub/Sub and Cloud Storage used to orchestrate and trigger workflows
+- Google Pub/Sub and Cloud Storage used to orchestrate and trigger workflows
 
-Continuous cleaning, transformation, and loading into BigQuery
+- Continuous cleaning, transformation, and loading into BigQuery
 
-Handles a large proportion of unstructured data
+- Handles a large proportion of unstructured data
 
 Analytics & Reporting:
 
-Frontend interfaces via Streamlit for exploratory analysis
+- Frontend interfaces via Streamlit for functional reporting and database query
 
-Dashboards in Looker Studio for interactive data visualization
+- Dashboards in Looker Studio for interactive data visualization
 
-Automated reports for coaches and managers to identify promising and top athletes for prioritization and funding
+- Automated reports for coaches and managers to identify promising and top athletes for prioritization and funding
 
 Coverage:
 
-Over 15 years of historical performance data
+- Over 15 years of historical performance data
 
-Both local and international competitions
+- Both local and international competitions
 
 🛠️ Tech Stack
 
-Data Sources: MS Access, CSV, Excel, Word, PDF, MySQL (phpMyAdmin)
+- Data Sources: MS Access, CSV, Excel, Word, PDF, MySQL (phpMyAdmin)
 
-ETL & Orchestration: Python, Pandas, Cloud Run, Pub/Sub, Cloud Storage
+- ETL & Orchestration: Python, Pandas, Cloud Run, Pub/Sub, Cloud Storage
 
-Data Warehouse: Google BigQuery
+- Data Warehouse: Google BigQuery
 
-Visualization: Streamlit, Looker Studio
+- Visualization: Streamlit, Looker Studio
 
 🚀 Outcomes
 
-Unified analytics platform for athletic performance data
+- Unified analytics platform for athletic performance data
 
-Automated, cloud-native ETL pipeline ensuring data freshness
+- Automated, cloud-native ETL pipeline ensuring data freshness
 
-Actionable insights for athlete development and funding decisions
+- Actionable insights for athlete development and funding decisions
 
 📊 Example Use Cases
 
-Monitor athlete progress across seasons and competitions
+- Monitor athlete progress across seasons and competitions
 
-Compare performances across event categories and regions
+- Compare performances across event categories and regions
 
-Identify emerging talent for strategic funding and training support
+- Identify emerging talent for strategic funding and training support
