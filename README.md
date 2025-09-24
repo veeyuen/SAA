@@ -14,7 +14,7 @@ This project is a comprehensive sports analytics platform designed to extract, c
 
 Data Pipeline:
 
-- Custom ETL pipeline built on Cloud Run functions
+- Custom ELT pipeline built on Cloud Run functions
 
 - Google Pub/Sub and Cloud Storage used to orchestrate and trigger workflows
 
@@ -53,7 +53,7 @@ Coverage:
 
 - Unified analytics platform for athletic performance data
 
-- Automated, cloud-native ETL pipeline ensuring data freshness
+- Automated, cloud-native ELT pipeline ensuring data freshness
 
 - Actionable insights for athlete development and funding decisions
 
